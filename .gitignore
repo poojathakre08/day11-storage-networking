@@ -1,0 +1,5 @@
+@"
+pgdata-backup.tgz
+.env
+*.pem
+"@ | Set-Content .gitignore
